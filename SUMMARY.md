@@ -5,7 +5,6 @@
 ## Getting Started
 
 * [Creating Your Account](getting-started/creating-account.md)
-* [First Time Setup](getting-started/first-time-setup.md)
 * [Navigating the App](getting-started/navigation.md)
 
 ## Profile & Account

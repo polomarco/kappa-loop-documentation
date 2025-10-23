@@ -5,7 +5,9 @@ Stay informed with important updates from your chapter, region, and the national
 ## In This Section
 
 * [Viewing Announcements](viewing.md) - Browse and read announcements
-* [Creating Announcements](creating.md) _(For Managers)_
+* [Creating Announcements](creating.md) _(For Managers)_ - Create new announcements
+* [Editing Announcements](editing.md) _(For Managers)_ - Update existing announcements
+* [Deleting Announcements](deleting.md) _(For Managers)_ - Remove announcements
 
 ## Announcement Types
 

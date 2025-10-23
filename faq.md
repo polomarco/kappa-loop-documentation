@@ -42,27 +42,9 @@ Yes, you can delete your account from Profile → Delete Account. See [Deleting 
 Make sure:
 * You have an internet connection
 * Notifications are enabled in your device settings
-* You haven't filtered announcements by type
-
-### Can I save announcements to read later?
-
-Yes! Tap the bookmark icon on any announcement to save it for later.
-
-### How do I share an announcement?
-
-Open any announcement and tap the share icon to share via text, email, or other apps.
+* You have refreshed the announcements feed
 
 ## Events
-
-### How do I RSVP to an event?
-
-1. Open the event
-2. Tap **RSVP**
-3. Select **Going**, **Maybe**, or **Can't Go**
-
-### Can I add events to my calendar?
-
-Yes! Open any event and tap **Add to Calendar** to sync it with your device calendar.
 
 ### How do I create an event?
 

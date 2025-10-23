@@ -19,21 +19,24 @@
 
 * [Viewing Announcements](announcements/viewing.md)
 * [Creating Announcements](announcements/creating.md) _(For Managers)_
+* [Editing Announcements](announcements/editing.md) _(For Managers)_
+* [Deleting Announcements](announcements/deleting.md) _(For Managers)_
 
 ## Events
 
-* [Browsing Events](events/browsing.md)
-* [Event Details](events/details.md)
-* [RSVPing to Events](events/rsvp.md)
+* [Viewing Events](events/viewing.md)
 * [Creating Events](events/creating.md) _(For Managers)_
-* [Managing Events](events/managing.md) _(For Managers)_
+* [Editing Events](events/editing.md) _(For Managers)_
+* [Deleting Events](events/deleting.md) _(For Managers)_
+
+## Managing Drafts _(For Managers)_
+
+* [Managing Drafts](managing-drafts.md)
 
 ## Settings & Privacy
 
 * [Notification Settings](settings/notifications.md)
 * [Privacy Settings](settings/privacy.md)
-* [Biometric Settings](settings/biometric.md)
-* [Account Settings](settings/account.md)
 
 ## Troubleshooting
 
@@ -50,4 +53,3 @@
 
 * [Privacy Policy](policies/privacy.md)
 * [Terms of Service](policies/terms.md)
-* [Data Deletion Policy](policies/data-deletion.md)

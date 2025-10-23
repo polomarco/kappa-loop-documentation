@@ -109,6 +109,8 @@ To save without publishing:
 3. Access drafts from the drawer menu: **My Drafts**
 4. You can edit and publish later
 
+See [Managing Drafts](../managing-drafts.md) for more information about working with drafts.
+
 ### Publish Immediately
 
 To publish your announcement:
@@ -118,55 +120,13 @@ To publish your announcement:
 3. Once complete, you'll see "Announcement published!"
 4. The announcement is immediately visible to members
 
-## Editing Announcements
+## Next Steps
 
-To edit a published announcement:
+After creating your announcement:
 
-1. Open the announcement details
-2. Tap the **edit icon** (if you have permission)
-3. Make your changes
-4. Tap **Save** to update
-
-To edit a draft:
-
-1. Go to **My Drafts** from the drawer menu
-2. Tap on the draft you want to edit
-3. Make your changes
-4. Tap **Save Draft** or **Publish**
-
-## Deleting Announcements
-
-To delete an announcement:
-
-1. Open the announcement for editing
-2. Tap the **delete icon** in the top-right corner
-3. Confirm the deletion
-4. The announcement is permanently removed
-
-⚠️ **Warning**: Deletion is permanent and cannot be undone.
-
-## Managing Drafts
-
-Access your drafts from the drawer menu:
-
-1. Tap the **menu icon** (☰)
-2. Select **My Drafts**
-3. You'll see tabs for:
-   * **All** - Both announcements and events
-   * **Announcements** - Announcement drafts only
-   * **Events** - Event drafts only
-
-From the drafts screen, you can:
-* **Edit** a draft
-* **Publish** a draft
-* **Delete** a draft
-
-To publish a draft:
-1. Tap the draft to open it
-2. Review the content
-3. Tap **Publish**
-4. Confirm publication
-5. The draft becomes a published announcement
+* **Edit** - Make changes to published announcements. See [Editing Announcements](editing.md)
+* **Manage Drafts** - Work with unpublished announcements. See [Managing Drafts](../managing-drafts.md)
+* **Delete** - Remove announcements when needed. See [Deleting Announcements](deleting.md)
 
 ## Best Practices
 

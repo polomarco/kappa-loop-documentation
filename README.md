@@ -22,7 +22,11 @@ Kappa Loop is the official mobile application for Kappa Alpha Psi Fraternity, In
 
 ## Need Help?
 
-If you can't find what you're looking for, please contact support at **support@kappaloop.app**
+If you can't find what you're looking for, please use the "Need Assistance" feature on our website:
+
+🔗 [Submit a Support Request](https://www.kappaalphapsi1911.com/need-assistance/)
+
+Please complete the form and select "Mobile Application" from the drop-down menu.
 
 ## App Versions
 

@@ -6,23 +6,18 @@
 
 * [Creating Your Account](getting-started/creating-account.md)
 * [First Time Setup](getting-started/first-time-setup.md)
-* [Profile Verification](getting-started/profile-verification.md)
 * [Navigating the App](getting-started/navigation.md)
 
 ## Profile & Account
 
 * [Viewing Your Profile](profile/viewing-profile.md)
 * [Editing Your Profile](profile/editing-profile.md)
-* [Profile Verification](profile/profile-verification.md)
 * [Biometric Authentication](profile/biometric-auth.md)
 * [Deleting Your Account](profile/deleting-account.md)
 
 ## Announcements
 
 * [Viewing Announcements](announcements/viewing.md)
-* [Filtering & Searching](announcements/filtering.md)
-* [Saving Announcements](announcements/saving.md)
-* [Sharing Announcements](announcements/sharing.md)
 * [Creating Announcements](announcements/creating.md) _(For Managers)_
 
 ## Events

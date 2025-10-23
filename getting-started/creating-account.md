@@ -32,57 +32,54 @@ Fill in the following details:
 
 💡 **Tip**: Use a strong password with a mix of letters, numbers, and symbols.
 
-### 4. Verify Your Email
+### 4. Update Your Information
 
-* Check your email inbox for a verification email from Kappa Loop
-* Click the verification link in the email
-* Return to the app
+You'll be prompted to review and update your information:
 
-### 5. Complete Your Profile
+**Contact Information**
+* Mobile Phone*
+* Home Phone (optional)
 
-After verification, you'll be prompted to complete your profile:
+**Mailing Address**
+* Street Address*
+* Apt/Suite/Unit (optional)
+* City*
+* State*
+* Postal Code*
+* Country*
 
-* First Name
-* Last Name
-* Membership Number
-* Chapter Information
-* Phone Number (optional)
-* Profile Photo (optional)
+**Emergency Contact**
+* Contact Name*
+* Contact Phone*
 
-### 6. Profile Verification
+**Professional Information**
+* Occupation*
+* Company Name (optional)
+* Industry*
 
-Your profile will need to be verified by chapter administrators. This typically takes 1-3 business days.
+**Military Service** (optional)
+* Military Branch
+* Military Rank
+* Active Duty Military
+* Retired Military
+* Disabled Veteran
 
-## Troubleshooting
-
-### Not Receiving Verification Email?
-
-* Check your spam/junk folder
-* Make sure you entered your email correctly
-* Wait a few minutes and try again
-* Contact support if the problem persists
-
-### Can't Find My Chapter?
-
-If your chapter doesn't appear in the list, please contact support at support@kappaloop.app with:
-* Your chapter name
-* Chapter location
-* Your membership number
+_Fields marked with * are required_
 
 ## Need Help?
 
-If you encounter any issues during signup:
+If you encounter any issues during signup, please use the "Need Assistance" feature on our website:
 
-📧 **Email**: support@kappaloop.app
-📱 **Phone**: [Support phone number]
+🔗 [Submit a Support Request](https://www.kappaalphapsi1911.com/need-assistance/)
+
+Please complete the form and select "Mobile Application" from the drop-down menu.
 
 ## Next Steps
 
 After creating your account:
 
-1. [Complete First Time Setup](first-time-setup.md)
-2. [Set Up Biometric Authentication](../profile/biometric-auth.md)
-3. [Explore the App](navigation.md)
+1. [Set Up Biometric Authentication](../profile/biometric-auth.md)
+2. [Explore the App](navigation.md)
 
 ---
 

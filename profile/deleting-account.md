@@ -29,21 +29,13 @@ If you wish to permanently delete your Kappa Loop account, you can do so directl
 
 ## Need Help Instead?
 
-If you're having issues with the app, please consider contacting support before deleting your account:
+If you're having difficulties with the app, please use the "Need Assistance" feature on our website before deleting your account:
 
-📧 **Email**: support@kappaloop.app
+🔗 [Submit a Support Request](https://www.kappaalphapsi1911.com/need-assistance/)
 
-We're here to help resolve any problems you may be experiencing!
+Please complete the form and select "Mobile Application" from the drop-down menu. We're here to help resolve any problems you may be experiencing!
 
 ## Frequently Asked Questions
-
-### Can I recover my account after deletion?
-
-No, account deletion is permanent. Once deleted, you cannot recover your account or any associated data.
-
-### Will my chapter still see my past activity?
-
-Your profile information will be anonymized, but content you created (announcements, event RSVPs) may still be visible to maintain data integrity for the organization.
 
 ### How long does deletion take?
 

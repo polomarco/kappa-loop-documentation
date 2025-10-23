@@ -1,0 +1,1 @@
+- always read information from the kappa loop mobile app located at /Users/marco/development/CleverLoops/kappa_loop_app this what ww will use to update the documentation. Be sure to always keep the code version in sync on the documentation as well.

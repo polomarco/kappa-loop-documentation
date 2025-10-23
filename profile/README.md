@@ -6,7 +6,6 @@ Your profile is your identity within the Kappa Loop community. Keep it up-to-dat
 
 * [Viewing Your Profile](viewing-profile.md) - See your profile information and QR code
 * [Editing Your Profile](editing-profile.md) - Update your contact info, photo, and more
-* [Profile Verification](profile-verification.md) - Annual verification process
 * [Biometric Authentication](biometric-auth.md) - Secure login with Face ID/Touch ID
 * [Deleting Your Account](deleting-account.md) - Permanently remove your account
 
@@ -58,10 +57,6 @@ Your profile is your identity within the Kappa Loop community. Keep it up-to-dat
 * Occupation & Company
 * Military Information
 * Social Media Links
-
-## Profile Verification
-
-All members must verify their profile information annually. Learn more about [Profile Verification](profile-verification.md).
 
 ---
 

@@ -23,10 +23,6 @@ See our guide on [Biometric Authentication](profile/biometric-auth.md).
 
 ## Profile
 
-### How often do I need to verify my profile?
-
-Profile verification is required annually to keep your information up-to-date.
-
 ### Can I hide my contact information?
 
 Yes! Go to Profile → Privacy Settings to control what information is visible to other members.
@@ -139,10 +135,11 @@ See our [Privacy Policy](policies/privacy.md) for complete details.
 
 ## Still Need Help?
 
-📧 **Email**: support@kappaloop.app
-📱 **Phone**: [Support number]
+If you have difficulties, please use the "Need Assistance" feature on our website:
 
-Our support team typically responds within 24-48 hours.
+🔗 [Submit a Support Request](https://www.kappaalphapsi1911.com/need-assistance/)
+
+Please complete the form and select "Mobile Application" from the drop-down menu. Our support team typically responds within 24-48 hours.
 
 ---
 

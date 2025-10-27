@@ -2,15 +2,6 @@
 
 Welcome to the official Kappa Loop user guide! This documentation will help you get the most out of your Kappa Loop experience.
 
-## Quick Links
-
-* [Getting Started](getting-started/README.md)
-* [Profile & Account](profile/README.md)
-* [Announcements](announcements/README.md)
-* [Events](events/README.md)
-* [Settings & Privacy](settings/README.md)
-* [FAQ](faq.md)
-
 ## What is Kappa Loop?
 
 Kappa Loop is the official mobile application for Kappa Alpha Psi Fraternity, Inc. members. Stay connected with your chapter, region, and the national organization through:

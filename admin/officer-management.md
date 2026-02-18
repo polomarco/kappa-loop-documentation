@@ -72,24 +72,9 @@ Each officer entry displays:
 
 Officer titles have a defined display order that reflects the organizational hierarchy. Common titles include:
 
-**National Level:**
 * Grand Polemarch
 * Grand Board Members
 * National Officers
-
-**Province Level:**
-* Province Polemarch
-* Province Board Members
-* Province Officers
-
-**Chapter Level:**
-* Polemarch
-* Vice Polemarch
-* Keeper of Records
-* Keeper of Exchequer
-* Strategus
-* Lieutenant Strategus
-* Board of Directors
 
 ## Search Functionality
 

@@ -32,10 +32,19 @@ Your profile is your identity within the Kappa Loop community. Keep it up-to-dat
 2. Update phone numbers, address, etc.
 3. Tap **Save**
 
+## Profile Verification
+
+Kappa Loop requires periodic profile verification to ensure your information stays current:
+
+* **First login** - Verify your details after account creation
+* **Annual review** - Confirm your information once per year
+
+The verification screen shows your current profile data and allows you to update any fields before confirming.
+
 ## Privacy & Security
 
 * [Privacy Settings](../settings/privacy.md) - Control who sees your information
-* [Biometric Settings](../settings/biometric.md) - Secure your account with Face ID/Touch ID
+* [Biometric Authentication](biometric-auth.md) - Secure your account with Face ID/Touch ID
 * [Notification Settings](../settings/notifications.md) - Manage how you're contacted
 
 ## Profile Fields
@@ -60,4 +69,4 @@ Your profile is your identity within the Kappa Loop community. Keep it up-to-dat
 
 ---
 
-_Last updated: October 2025_
+_Last updated: February 2026_

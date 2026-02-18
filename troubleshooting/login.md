@@ -21,9 +21,11 @@ Having trouble signing into Kappa Loop? This guide will help you resolve common 
 
 3. **Reset your password**
    * Tap **Forgot Password** on the login screen
-   * Enter your email address
-   * Check your email for the reset link
-   * Create a new password
+   * Enter your email address associated with your account
+   * Tap **Send Reset Link**
+   * Check your email for the password reset link
+   * Tap the link and follow the instructions to create a new password
+   * Return to the app and sign in with your new password
 
 ### "Session expired" Error
 
@@ -172,6 +174,31 @@ Sometimes clearing the app cache can resolve login issues.
 4. Tap **Storage**
 5. Tap **Clear Cache** (not Clear Data)
 
+## Profile Verification Screen After Login
+
+If you see a profile verification screen after logging in, this is normal. Kappa Loop requires you to verify your profile information:
+
+* **On first login** - After creating your account, you'll be asked to verify your details
+* **Annually** - Once per year, you'll be asked to confirm your information is still correct
+
+This screen displays your current profile data and allows you to make corrections. You must complete the verification to proceed to the main app.
+
+**What to do:**
+1. Review your contact information, address, and professional details
+2. Update any fields that have changed
+3. Tap **Verify** or **Confirm** to proceed
+
+## App Update Required
+
+If you see an update dialog that prevents you from using the app:
+
+1. Tap the **Update** button
+2. You'll be directed to the App Store (iOS) or Google Play Store (Android)
+3. Install the latest version
+4. Reopen the app and sign in
+
+This happens when your app version is below the minimum required version.
+
 ## Still Having Issues?
 
 If you've tried the solutions above and still can't log in, please use the help desk:
@@ -189,4 +216,4 @@ Please complete the form and select "Mobile Application" from the drop-down menu
 
 ---
 
-_Last updated: October 2025_
+_Last updated: February 2026_

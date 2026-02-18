@@ -126,4 +126,4 @@ No, biometric authentication is completely optional. You can always sign in usin
 
 ---
 
-_Last updated: October 2025_
+_Last updated: February 2026_

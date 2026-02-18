@@ -196,4 +196,4 @@ Privacy settings only control profile visibility. They don't affect:
 
 ---
 
-_Last updated: October 2025_
+_Last updated: February 2026_

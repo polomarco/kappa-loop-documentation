@@ -278,4 +278,4 @@ While we work on notification issues:
 
 ---
 
-_Last updated: October 2025_
+_Last updated: February 2026_

@@ -49,4 +49,4 @@ Learn more in [Creating Announcements](creating.md).
 
 ---
 
-_Last updated: October 2025_
+_Last updated: February 2026_

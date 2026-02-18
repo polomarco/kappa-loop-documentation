@@ -242,4 +242,4 @@ Please complete the form and select "Mobile Application" from the drop-down menu
 
 ---
 
-_Last updated: October 2025_
+_Last updated: February 2026_

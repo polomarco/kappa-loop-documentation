@@ -167,4 +167,4 @@ You must write content in the description before saving or publishing.
 
 ---
 
-_Last updated: October 2025_
+_Last updated: February 2026_

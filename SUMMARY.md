@@ -28,9 +28,43 @@
 * [Editing Events](events/editing.md) _(For Managers)_
 * [Deleting Events](events/deleting.md) _(For Managers)_
 
+## Voting Center
+
+* [Voting Overview](voting/README.md)
+* [Viewing Votes](voting/viewing.md)
+* [Casting a Vote](voting/casting-vote.md)
+* [Vote Results](voting/results.md)
+* [Creating Votes](voting/creating.md) _(For Managers)_
+* [Delegate Lists](voting/delegate-lists.md) _(For Managers)_
+
+## Chapter Management
+
+* [Chapter Overview](chapters/README.md)
+* [My Chapters](chapters/my-chapters.md)
+* [Browsing Chapters](chapters/browsing.md)
+* [Viewing Chapter Details](chapters/viewing.md)
+* [Joining a Chapter](chapters/joining.md)
+
+## Meeting Management
+
+* [Meeting Overview](meetings/README.md)
+* [Viewing Meetings](meetings/viewing.md)
+* [Creating Meetings](meetings/creating.md) _(For Managers)_
+* [Meeting Check-in](meetings/check-in.md)
+* [Meeting Attachments](meetings/attachments.md)
+
 ## Managing Drafts _(For Managers)_
 
 * [Managing Drafts](managing-drafts.md)
+
+## Administration _(For Managers)_
+
+* [Administration Overview](admin/README.md)
+* [Officer Management](admin/officer-management.md)
+* [Role Assignment](admin/role-assignment.md)
+* [Membership Requests](admin/membership-requests.md)
+* [Organizational Settings](admin/settings.md)
+* [User Permissions](admin/user-permissions.md)
 
 ## Settings & Privacy
 

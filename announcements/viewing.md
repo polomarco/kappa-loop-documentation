@@ -134,4 +134,4 @@ Announcements are automatically organized by time, making it easy to find:
 
 ---
 
-_Last updated: October 2025_
+_Last updated: February 2026_

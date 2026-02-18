@@ -155,4 +155,4 @@ Events are automatically organized by status:
 
 ---
 
-_Last updated: October 2025_
+_Last updated: February 2026_

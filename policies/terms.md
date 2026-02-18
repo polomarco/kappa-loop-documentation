@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last Updated**: October 2025
+**Last Updated**: February 2026
 
 These Terms of Service ("Terms") govern your use of the Kappa Loop mobile application ("App") operated by Kappa Alpha Psi Fraternity, Inc. ("we," "us," or "our"). By accessing or using the App, you agree to be bound by these Terms.
 
@@ -300,6 +300,6 @@ BY USING THE KAPPA LOOP APP, YOU ACKNOWLEDGE THAT YOU HAVE READ THESE TERMS OF S
 
 ---
 
-_Last updated: October 2025_
+_Last updated: February 2026_
 
 _These terms are effective as of the date listed above and apply to all users of the Kappa Loop mobile application._

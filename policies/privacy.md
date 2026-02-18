@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated**: October 2025
+**Last Updated**: February 2026
 
 Kappa Alpha Psi Fraternity, Inc. ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use the Kappa Loop mobile application ("App").
 
@@ -246,6 +246,6 @@ In the event of a data breach affecting your personal information, we will:
 
 ---
 
-_Last updated: October 2025_
+_Last updated: February 2026_
 
 _This policy is effective as of the date listed above and applies to all users of the Kappa Loop mobile application._

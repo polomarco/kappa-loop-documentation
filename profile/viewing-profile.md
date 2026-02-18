@@ -95,4 +95,4 @@ Your profile visibility can be controlled through **Privacy Settings**. See [Pri
 
 ---
 
-_Last updated: October 2025_
+_Last updated: February 2026_

@@ -236,4 +236,4 @@ For virtual events, you must provide a meeting link.
 
 ---
 
-_Last updated: October 2025_
+_Last updated: February 2026_

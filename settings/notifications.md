@@ -149,4 +149,4 @@ Notification preferences are saved to your account and sync across devices. Your
 
 ---
 
-_Last updated: October 2025_
+_Last updated: February 2026_

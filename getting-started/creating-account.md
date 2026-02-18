@@ -74,6 +74,26 @@ If you encounter any issues during signup, please use the "Need Assistance" feat
 
 Please complete the form and select "Mobile Application" from the drop-down menu.
 
+## Profile Verification
+
+After creating your account and logging in for the first time, you may be prompted to **verify your profile information**. This step ensures all your details are accurate and up to date.
+
+1. Review the pre-populated fields (name, contact info, address, etc.)
+2. Correct any information that needs updating
+3. Fill in any missing required fields
+4. Tap **Verify** to confirm your profile
+
+This verification is required annually to keep your information current.
+
+## Forgot Password
+
+If you forget your password at any point:
+
+1. Tap **Forgot Password** on the login screen
+2. Enter your email address
+3. Tap **Send Reset Link**
+4. Check your email and follow the link to reset your password
+
 ## Next Steps
 
 After creating your account:
@@ -83,4 +103,4 @@ After creating your account:
 
 ---
 
-_Last updated: October 2025_
+_Last updated: February 2026_

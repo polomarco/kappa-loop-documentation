@@ -4,13 +4,13 @@ Configure settings for the Grand Chapter, province, and chapter levels.
 
 ## Accessing Settings
 
-Settings are accessible from each organizational screen:
+Settings are accessible from the drawer menu (☰) on each organizational screen:
 
-* **Grand Chapter** - Tap the settings/gear icon on the national screen
-* **Province** - Tap the settings/gear icon on the province screen
-* **Chapter** - Tap the settings/gear icon on the chapter screen
+* **Grand Chapter** - Open the drawer menu and tap **Manage Grand Chapter**
+* **Province** - Open the drawer menu and tap **Manage Province**
+* **Chapter** - Open the drawer menu and tap **Manage Chapter**
 
-Settings options are only visible to users with administrative permissions at the corresponding level.
+These options are only visible to users with administrative permissions at the corresponding level.
 
 ## Grand Chapter Settings
 

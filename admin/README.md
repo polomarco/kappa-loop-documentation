@@ -19,13 +19,13 @@ Administrative features are role-based and vary depending on your organizational
 
 ## Accessing Admin Features
 
-Admin features are available through the settings screens:
+Admin features are available through the drawer menu (☰) on each organizational screen:
 
-* **Grand Chapter Settings** - Tap the settings icon on the Grand Chapter (National) screen
-* **Province Settings** - Tap the settings icon on the Province screen
-* **Chapter Settings** - Tap the settings icon on the Chapter screen
+* **Manage Grand Chapter** - Available on the Grand Chapter (National) screen
+* **Manage Province** - Available on the Province screen
+* **Manage Chapter** - Available on the Chapter screen
 
-These settings options are only visible to users with the appropriate administrative roles.
+These options are only visible to users with the appropriate administrative roles.
 
 ## In This Section
 

@@ -163,11 +163,11 @@ Kappa Loop checks for updates on launch. If you see an update dialog:
 
 ### How do I assign officer roles?
 
-Go to **Grand Chapter Settings** → **Officer Management**. Search for a member and assign them to an officer title. See [Officer Management](admin/officer-management.md) for details.
+Open the drawer menu on the Grand Chapter screen and tap **Manage Grand Chapter** → **Officer Management**. Search for a member and assign them to an officer title. See [Officer Management](admin/officer-management.md) for details.
 
 ### How do I give someone permission to create announcements?
 
-Go to your organizational settings → **Role Assignment**. Search for the member and assign them the Announcement Manager role. See [Role Assignment](admin/role-assignment.md) for details.
+Open the drawer menu on the appropriate screen (Grand Chapter, Province, or Chapter) and tap the **Manage** option → **Role Assignment**. Search for the member and assign them the Announcement Manager role. See [Role Assignment](admin/role-assignment.md) for details.
 
 ## Privacy & Security
 

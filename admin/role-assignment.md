@@ -10,9 +10,9 @@ Role assignment allows administrators to grant specific management permissions t
 
 Role assignment is accessible from the settings screen at each organizational level:
 
-* **Grand Chapter Settings** → **Role Assignment** (National roles)
-* **Province Settings** → **Role Assignment** (Province roles)
-* **Chapter Settings** → **Role Assignment** (Chapter roles)
+* **Manage Grand Chapter** → **Role Assignment** (National roles)
+* **Manage Province** → **Role Assignment** (Province roles)
+* **Manage Chapter** → **Role Assignment** (Chapter roles)
 
 ## Available Roles
 

@@ -13,7 +13,9 @@ The officer management system allows administrators to:
 
 ## Accessing Officer Management
 
-1. Navigate to **Grand Chapter Settings** → **Officer Management**
+1. Open the drawer menu (☰) on the Grand Chapter screen
+2. Tap **Manage Grand Chapter**
+3. Tap **Officer Management**
 
 ## Officer Management Screen
 

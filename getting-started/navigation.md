@@ -81,9 +81,9 @@ The drawer menu includes the following options (visibility varies by role and pe
 * **Meetings** - View chapter and province meetings (on Chapter/Province screens)
 
 **Administrative** (visible based on your permissions):
-* **Grand Chapter Settings** - Access national administrative settings (for National Managers)
-* **Province Settings** - Access provincial administrative settings (for Province Managers)
-* **Chapter Settings** - Access chapter administrative settings (for Chapter Managers)
+* **Manage Grand Chapter** - Access national administrative settings (for National Managers)
+* **Manage Province** - Access provincial administrative settings (for Province Managers)
+* **Manage Chapter** - Access chapter administrative settings (for Chapter Managers)
 
 **App Information:**
 * **About** - App version, user guide, help desk, and privacy policy links

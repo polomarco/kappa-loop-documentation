@@ -1,15 +1,13 @@
 # Chapter Management
 
-Kappa Loop provides comprehensive chapter management features, allowing you to view chapter information, manage your chapter memberships, browse the chapter directory, and request to join additional chapters.
+Kappa Loop provides comprehensive chapter management features, allowing you to view chapter information, browse the chapter directory, and request to join a chapter.
 
 ## Overview
 
 The chapter system supports:
 
-* **Primary Chapter** - Your home chapter assignment
-* **Associate Memberships** - Additional chapter affiliations beyond your primary chapter
 * **Chapter Directory** - Browse and search all chapters in the fraternity
-* **Membership Requests** - Request to join a new chapter with an approval workflow
+* **Membership Requests** - Request to join a chapter with an approval workflow
 
 ## Key Features
 

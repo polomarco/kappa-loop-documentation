@@ -1,6 +1,6 @@
 # Joining a Chapter
 
-You can request to join additional chapters as an associate member, or request a primary chapter transfer.
+You can request to join a chapter through the Browse Chapters directory.
 
 ## How to Submit a Join Request
 
@@ -13,10 +13,7 @@ You can request to join additional chapters as an associate member, or request a
 
 When requesting to join a chapter, you'll provide:
 
-* **Membership Type** - Choose "Primary" (chapter transfer) or "Associate" (additional membership)
 * **Reason** _(required)_ - Explain why you'd like to join this chapter
-
-⚠️ **Note**: Requesting a **Primary** membership change means transferring your home chapter. You can only have one primary chapter.
 
 ## Request Approval Process
 
@@ -31,7 +28,6 @@ After submitting a request:
 
 If approved:
 * Your new chapter membership is activated
-* For primary transfers, your home chapter is updated
 
 ### Rejection
 
@@ -47,20 +43,6 @@ Request statuses:
 * **Pending** - Awaiting review by a chapter manager
 * **Approved** - Your membership has been granted
 * **Rejected** - Your request was declined (check review notes for details)
-
-## Membership Types
-
-### Primary Membership
-
-* Your main chapter affiliation
-* Only one primary chapter at a time
-* Determines your "home" chapter in the app
-
-### Associate Membership
-
-* Additional chapter affiliations
-* You can be an associate member of multiple chapters
-* Allows participation in multiple chapter activities
 
 ## Troubleshooting
 

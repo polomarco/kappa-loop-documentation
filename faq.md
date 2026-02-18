@@ -89,19 +89,6 @@ When a delegate cannot vote in person, their voting authority can be assigned to
 
 ## Chapters
 
-### How do I join another chapter?
-
-1. Go to **Browse Chapters** from the drawer menu
-2. Find the chapter you want to join
-4. Tap **Join Chapter** and fill out the request form
-5. Wait for the chapter manager to approve your request
-
-See [Joining a Chapter](chapters/joining.md) for the full guide.
-
-### Can I be a member of multiple chapters?
-
-Yes! You have one **primary** chapter (your home chapter) and can be an **associate** member of additional chapters.
-
 ### How do I find a specific chapter?
 
 Use **Browse Chapters** from the drawer menu. You can search by name, school, or location, and filter by chapter type, status, or province.

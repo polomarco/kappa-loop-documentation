@@ -20,8 +20,6 @@ Each membership request displays:
 
 * **Member name** and profile photo
 * **Email address**
-* **Current primary chapter** (the member's existing home chapter)
-* **Requested membership type** - Primary (chapter transfer) or Associate
 * **Reason** - The member's stated reason for joining
 * **Submitted date**
 * **Status** - Pending, Approved, or Rejected
@@ -38,8 +36,6 @@ Each membership request displays:
 
 After approval:
 * The member is added to your chapter's roster
-* The member's chapter memberships update to show the new membership
-* For primary transfers, the member's home chapter changes
 
 ### Rejecting a Request
 
@@ -67,7 +63,6 @@ Filter the request list by status:
 * Review pending requests promptly to provide a good member experience
 * Include review notes when rejecting a request so the member understands why
 * Verify the member's identity and standing before approving
-* For primary chapter transfers, coordinate with the member's current chapter if needed
 
 ---
 

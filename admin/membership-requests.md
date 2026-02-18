@@ -4,7 +4,7 @@ Chapter administrators can review and process requests from members who want to 
 
 ## Overview
 
-When a member requests to join your chapter (see [Joining a Chapter](../chapters/joining.md)), their request appears in your membership requests queue for review.
+When a member requests to join your chapter, their request appears in your membership requests queue for review.
 
 ## Accessing Membership Requests
 

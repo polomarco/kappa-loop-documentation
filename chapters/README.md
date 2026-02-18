@@ -39,7 +39,6 @@ Chapters are categorized by type:
 
 * [Browsing Chapters](browsing.md) - Search and explore the chapter directory
 * [Viewing Chapter Details](viewing.md) - Chapter information, officers, and members
-* [Joining a Chapter](joining.md) - Request membership in a new chapter
 
 ---
 

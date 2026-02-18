@@ -60,10 +60,6 @@ The chapter detail screen shows your relationship with the chapter:
 * **Pending Request** - You have a pending membership request
 * **Join** - Button to request membership (if not already a member)
 
-## Joining the Chapter
-
-If you're not a member, a **Join Chapter** button appears. See [Joining a Chapter](joining.md) for the full process.
-
 ## Viewing Chapter Initiates
 
 If available, you can view the chapter's initiates:

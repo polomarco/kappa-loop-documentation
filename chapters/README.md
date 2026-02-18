@@ -7,13 +7,11 @@ Kappa Loop provides comprehensive chapter management features, allowing you to v
 The chapter system supports:
 
 * **Chapter Directory** - Browse and search all chapters in the fraternity
-* **Membership Requests** - Request to join a chapter with an approval workflow
 
 ## Key Features
 
 * **Chapter Browse** - Search and filter the complete chapter directory
 * **Chapter Details** - View chapter information, officers, and members
-* **Join Requests** - Submit and track membership requests to other chapters
 * **Chapter Initiates** - View initiates associated with a chapter
 
 ## Accessing Chapter Features

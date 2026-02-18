@@ -33,7 +33,6 @@ Province administrators can access:
 Chapter administrators can access:
 
 * **Officer Management** - Manage chapter officer assignments via **Chapter Role Assignment**
-* **Membership Requests** - Review and approve chapter membership requests (with pending count badge)
 * **About** - App information, version, and support links
 
 ## About Screen

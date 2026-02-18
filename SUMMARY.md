@@ -60,7 +60,6 @@
 * [Administration Overview](admin/README.md)
 * [Officer Management](admin/officer-management.md)
 * [Role Assignment](admin/role-assignment.md)
-* [Membership Requests](admin/membership-requests.md)
 * [Organizational Settings](admin/settings.md)
 * [User Permissions](admin/user-permissions.md)
 

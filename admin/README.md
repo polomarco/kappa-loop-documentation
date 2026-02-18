@@ -8,13 +8,12 @@ Administrative features are role-based and vary depending on your organizational
 
 * **National Administrators** - Manage national officers, settings, and permissions
 * **Province Administrators** - Manage province officers and regional settings
-* **Chapter Administrators** - Manage chapter officers, settings, and membership requests
+* **Chapter Administrators** - Manage chapter officers and settings
 
 ## Key Features
 
 * **Officer Management** - Assign and manage officer titles and positions
 * **Role Assignment** - Grant and revoke management roles and permissions
-* **Membership Requests** - Review and approve chapter membership requests
 * **Settings Management** - Configure organizational settings at each level
 * **User Permissions** - Manage content creation and management permissions
 
@@ -32,7 +31,6 @@ These settings options are only visible to users with the appropriate administra
 
 * [Officer Management](officer-management.md) - Assign and manage officers at all levels
 * [Role Assignment](role-assignment.md) - Grant management roles and permissions
-* [Membership Requests](membership-requests.md) - Review chapter membership requests
 * [Settings](settings.md) - Configure organizational settings
 * [User Permissions](user-permissions.md) - Manage content creation permissions
 

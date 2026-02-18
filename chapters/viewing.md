@@ -57,8 +57,6 @@ Tap the **Officers** section to expand and view the chapter's leadership:
 The chapter detail screen shows your relationship with the chapter:
 
 * **Member** - You are an active member of this chapter
-* **Pending Request** - You have a pending membership request
-* **Join** - Button to request membership (if not already a member)
 
 ## Viewing Chapter Initiates
 

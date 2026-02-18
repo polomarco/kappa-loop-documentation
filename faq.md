@@ -169,10 +169,6 @@ Go to your organizational settings (Grand Chapter, Province, or Chapter) → **O
 
 Go to your organizational settings → **Role Assignment**. Search for the member and assign them the Announcement Manager role. See [Role Assignment](admin/role-assignment.md) for details.
 
-### How do I approve a chapter membership request?
-
-Go to **Chapter Settings** → **Membership Requests**. Review the pending request and tap Approve or Reject. See [Managing Membership Requests](admin/membership-requests.md) for details.
-
 ## Privacy & Security
 
 ### Is my data secure?

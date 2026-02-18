@@ -40,7 +40,6 @@
 ## Chapter Management
 
 * [Chapter Overview](chapters/README.md)
-* [My Chapters](chapters/my-chapters.md)
 * [Browsing Chapters](chapters/browsing.md)
 * [Viewing Chapter Details](chapters/viewing.md)
 * [Joining a Chapter](chapters/joining.md)

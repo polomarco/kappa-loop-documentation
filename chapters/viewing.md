@@ -6,7 +6,6 @@ The chapter detail screen provides comprehensive information about a chapter, it
 
 You can reach a chapter's detail screen by:
 
-* Tapping a chapter in **My Chapters**
 * Tapping a chapter from **Browse Chapters**
 * Navigating to your chapter via the **FAB** → **Chapter**
 

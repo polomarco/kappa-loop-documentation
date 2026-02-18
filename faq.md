@@ -91,9 +91,8 @@ When a delegate cannot vote in person, their voting authority can be assigned to
 
 ### How do I join another chapter?
 
-1. Go to **My Chapters** from the drawer menu
-2. Tap **Find Chapters** or go to **Browse Chapters**
-3. Find the chapter you want to join
+1. Go to **Browse Chapters** from the drawer menu
+2. Find the chapter you want to join
 4. Tap **Join Chapter** and fill out the request form
 5. Wait for the chapter manager to approve your request
 

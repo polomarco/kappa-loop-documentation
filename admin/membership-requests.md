@@ -38,7 +38,7 @@ Each membership request displays:
 
 After approval:
 * The member is added to your chapter's roster
-* Their My Chapters screen updates to show the new membership
+* The member's chapter memberships update to show the new membership
 * For primary transfers, the member's home chapter changes
 
 ### Rejecting a Request
@@ -51,7 +51,7 @@ After approval:
 
 After rejection:
 * The member's request status changes to "Rejected"
-* They can see the review notes in their My Chapters screen
+* They can see the review notes for the rejection
 * They can submit a new request in the future if circumstances change
 
 ## Filtering Requests

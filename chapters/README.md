@@ -13,7 +13,6 @@ The chapter system supports:
 
 ## Key Features
 
-* **My Chapters** - View all your chapter memberships in one place
 * **Chapter Browse** - Search and filter the complete chapter directory
 * **Chapter Details** - View chapter information, officers, and members
 * **Join Requests** - Submit and track membership requests to other chapters
@@ -23,7 +22,6 @@ The chapter system supports:
 
 Chapter features are available through multiple paths:
 
-* **Drawer Menu** → **My Chapters** - View your chapter memberships
 * **Drawer Menu** → **Browse Chapters** - Search the chapter directory
 * **FAB** → **Chapter** - Quick access to your chapter's main screen
 
@@ -41,7 +39,6 @@ Chapters are categorized by type:
 
 ## In This Section
 
-* [My Chapters](my-chapters.md) - View and manage your chapter memberships
 * [Browsing Chapters](browsing.md) - Search and explore the chapter directory
 * [Viewing Chapter Details](viewing.md) - Chapter information, officers, and members
 * [Joining a Chapter](joining.md) - Request membership in a new chapter

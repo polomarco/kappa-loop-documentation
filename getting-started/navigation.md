@@ -69,7 +69,6 @@ The drawer menu includes the following options (visibility varies by role and pe
 
 **Available to All Members:**
 * **Member Directory** - Search and connect with members across the fraternity
-* **My Chapters** - View your chapter memberships and request to join new chapters
 * **Browse Chapters** - Search and explore the complete chapter directory
 
 **Content Management** (visible based on your permissions):

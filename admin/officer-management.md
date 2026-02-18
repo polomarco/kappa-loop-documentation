@@ -1,6 +1,6 @@
 # Officer Management
 
-Manage officer positions and assignments at the national, province, and chapter levels.
+Manage officer positions and assignments at the national (Grand Chapter) level.
 
 ## Overview
 
@@ -13,10 +13,7 @@ The officer management system allows administrators to:
 
 ## Accessing Officer Management
 
-1. Navigate to the appropriate settings screen:
-   * **Grand Chapter Settings** → **Officer Management** (National)
-   * **Province Settings** → **Officer Management** (Province)
-   * **Chapter Settings** → **Officer Management** (Chapter)
+1. Navigate to **Grand Chapter Settings** → **Officer Management**
 
 ## Officer Management Screen
 

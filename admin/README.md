@@ -7,8 +7,8 @@ Kappa Loop provides administrative tools for managing officers, roles, permissio
 Administrative features are role-based and vary depending on your organizational position:
 
 * **National Administrators** - Manage national officers, settings, and permissions
-* **Province Administrators** - Manage province officers and regional settings
-* **Chapter Administrators** - Manage chapter officers and settings
+* **Province Administrators** - Manage regional settings and permissions
+* **Chapter Administrators** - Manage chapter settings and permissions
 
 ## Key Features
 
@@ -29,7 +29,7 @@ These settings options are only visible to users with the appropriate administra
 
 ## In This Section
 
-* [Officer Management](officer-management.md) - Assign and manage officers at all levels
+* [Officer Management](officer-management.md) - Assign and manage officers at the national level
 * [Role Assignment](role-assignment.md) - Grant management roles and permissions
 * [Settings](settings.md) - Configure organizational settings
 * [User Permissions](user-permissions.md) - Manage content creation permissions

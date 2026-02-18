@@ -24,7 +24,6 @@ National administrators can access:
 
 Province administrators can access:
 
-* **Officer Management** - Manage province officer assignments
 * **Province Role Assignment** - Grant province-level management roles
 * **About** - App information, version, and support links
 
@@ -32,7 +31,7 @@ Province administrators can access:
 
 Chapter administrators can access:
 
-* **Officer Management** - Manage chapter officer assignments via **Chapter Role Assignment**
+* **Chapter Role Assignment** - Grant chapter-level management roles
 * **About** - App information, version, and support links
 
 ## About Screen

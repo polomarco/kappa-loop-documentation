@@ -7,6 +7,10 @@
 * [Creating Your Account](getting-started/creating-account.md)
 * [Navigating the App](getting-started/navigation.md)
 
+## Chapter Dues _(For Chapter Officers)_
+
+* [Setting Up Chapter Dues](chapter-dues/officer-setup.md)
+
 ## Profile & Account
 
 * [Viewing Your Profile](profile/viewing-profile.md)

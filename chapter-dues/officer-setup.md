@@ -2,7 +2,11 @@
 
 Collect your chapter's dues in Kappa Loop. Brothers pay Grand Chapter, province and chapter dues in one checkout, and your chapter's share goes straight into your chapter's own Stripe account.
 
-**Who can set this up:** the chapter's **Polemarch**, **1st Vice Polemarch** or **Keeper of Exchequer**.
+**Who can set this up:** anyone with the **Chapter Manager** or **Payment Manager** role for your chapter.
+
+* **Polemarch** and **1st Vice Polemarch** get **Chapter Manager** automatically.
+* **Keeper of Exchequer** gets **Payment Manager** automatically.
+* Anyone else, such as an Assistant Keeper of Exchequer, can be given either role by a Chapter Manager. See [Giving another brother access](#giving-another-brother-access).
 
 ---
 
@@ -20,6 +24,10 @@ Have these ready. Stripe will ask for them:
 
 If your chapter already has a Stripe account, you can connect that one instead of creating a new one.
 
+{% hint style="danger" %}
+**Don't use your personal email for your chapter's Stripe account.** The Stripe account belongs to your chapter, not to you, and it has to stay with the chapter when officers change. Create it with an email your chapter owns and can pass to the next Keeper of Exchequer, such as a shared chapter treasurer address. Don't connect your personal Stripe account either.
+{% endhint %}
+
 ---
 
 ## Step 1 — Sign in on the web
@@ -29,14 +37,16 @@ If your chapter already has a Stripe account, you can connect that one instead o
 3. Make sure **your chapter** is selected at the top.
 
 {% hint style="info" %}
-Don't see **Management Console**? Your officer title may not be recorded yet. See [Troubleshooting](#troubleshooting).
+Don't see **Management Console**? You need the **Chapter Manager** or **Payment Manager** role for your chapter. See [Troubleshooting](#troubleshooting).
 {% endhint %}
 
 ## Step 2 — Connect your chapter's Stripe account
 
 1. In the **Management Console**, under **Money**, select **Payment setup**.
 2. Select **Set Up Payments**. You'll go to Stripe.
-3. Sign in to your chapter's existing Stripe account, or create a new one. Your email and chapter name are filled in for you.
+3. Sign in to your chapter's existing Stripe account, or create a new one.
+   * Your chapter name is filled in for you.
+   * **Your Kappa Loop email is filled in too. If it's your personal email, change it** to your chapter's email before you continue.
 4. Complete Stripe's questions, then return to Kappa Loop.
 5. You'll see **"You're all set!"** Select **Back to Payment Setup**.
 
@@ -55,14 +65,14 @@ Check the status in **Management Console → Payment setup**:
 ## Step 3 — Set your chapter's dues
 
 1. In the **Management Console**, under **Money**, select **Dues**, then open the **Settings** tab.
-2. Enter your **Annual dues amount**, what each member owes per year.
+2. Enter your **Annual dues amount**, what each member owes your chapter per year. **Don't include province dues in this amount.** They're added separately in the next step.
 3. Leave **Effective date** as today to start now, or pick a future date to schedule it.
-4. Optional settings:
-   * **Collect province dues with chapter dues.** Bills your province's dues on the same line. The whole payment comes to your chapter, and your chapter pays the province.
+4. **Turn on Collect province dues with chapter dues, and enter your province's dues amount.** We strongly recommend this. Provinces aren't taking dues payments directly in Kappa Loop right now, so this is how brothers pay province dues in the same checkout. The province amount is added to your chapter's line, the whole payment comes to your chapter, and your chapter pays the province.
+5. Optional settings:
    * **Chapter Life Membership.** A one-time price that covers this chapter's dues for life.
    * **Senior / 50-year rate.** A reduced rate for brothers over a set age or years since initiation.
    * **Associate member price.** A reduced rate for brothers who hold your chapter as a second (non-primary) chapter.
-5. Select **Save dues settings**.
+6. Select **Save dues settings**.
 
 ## Step 4 — Tell your brothers
 
@@ -88,14 +98,39 @@ All of these are in the **Management Console**.
 
 * **One Stripe account per chapter.** A Stripe account can be connected to only one chapter.
 * **Brothers can't pay your chapter's dues until Stripe is active.** Until **Management Console → Payment setup** shows **Active, accepting payments**, your chapter's dues can't be paid, even if you've saved an amount.
-* **Refunds** return the brother's chapter payment and take that amount back from your chapter's Stripe account.
+
+## Issuing a refund
+
+Refunds are for payments brothers made in Kappa Loop. You can refund from either of two places in the **Management Console**:
+
+* **Dues → Payments:** open the payment, then select **Refund $…** on your chapter's line.
+* **Dues → Members:** find the brother, then select **Refund** on his row.
+
+Then:
+
+1. Choose a reason: **Duplicate payment**, **Paid in error**, **Membership / eligibility change**, **Member request** or **Other**. If you choose **Other**, explain the reason.
+2. Check the box to confirm the refund back to the member.
+3. Select **Refund dues**.
+
+{% hint style="warning" %}
+**Refunds can't be undone, and they're all or nothing.** The brother gets back your chapter's full share of the payment, including any province dues you collected with it, plus his share of the service fee. That amount is taken back from your chapter's Stripe account. A refund covers only your chapter's share. Grand Chapter dues paid in the same checkout aren't affected.
+{% endhint %}
+
+The payment shows **Refunding** and then **Refunded**. If it shows **Refund stalled**, select **Retry refund**.
+
+## Giving another brother access
+
+A **Chapter Manager** (your Polemarch or 1st Vice Polemarch) can give another brother access:
+
+1. In the **Management Console**, under **People**, select **Roles**.
+2. Assign **Payment Manager** (dues and payments) or **Chapter Manager** (everything for the chapter) for your chapter.
 
 ---
 
 ## Troubleshooting
 
 **I don't see Management Console.**
-Your officer title in the fraternity's records must be Polemarch, 1st Vice Polemarch or Keeper of Exchequer. If it is and you still don't see it, [contact support](https://kappaloop.com/support).
+You need the **Chapter Manager** or **Payment Manager** role for your chapter. Polemarchs, 1st Vice Polemarchs and Keepers of Exchequer get these automatically when their title is in the fraternity's records. Anyone else can be given a role by a Chapter Manager (see [Giving another brother access](#giving-another-brother-access)). If you should have access and don't, [contact support](https://kappaloop.com/support).
 
 **I tried to connect Stripe on my phone and got sent to the app.**
 Start again on a computer. Connecting Stripe has to be finished in a computer's web browser.

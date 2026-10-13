@@ -1,251 +1,224 @@
 # Privacy Policy
 
-**Last Updated**: February 2026
+**Last Updated**: October 13, 2026
 
-Kappa Alpha Psi Fraternity, Inc. ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use the Kappa Loop mobile application ("App").
+**Operator:** Clever Loops, Inc., a Delaware corporation\
+**Contact:** team@kappaloop.com\
+**Postal address:** Clever Loops, Inc., 13142 Pelfrey Ln, Fairfax, VA 22033-3028
 
-## Information We Collect
+This policy replaces all earlier Kappa Loop privacy policies, including the version dated February 2026 and the version hosted at freeprivacypolicy.com dated September 26, 2024.
 
-### Personal Information
+## 1. Who we are, and who controls your information
 
-When you create an account and use the App, we collect:
+Kappa Loop is a membership-management platform built and operated by **Clever Loops, Inc.** ("Clever Loops," "we," "us"). Kappa Loop is a product of Clever Loops, Inc. — not a separate company.
 
-* **Account Information**: Email address, password (encrypted), membership number
-* **Profile Information**: Name, chapter affiliation, region, date of birth, profile photo
-* **Contact Information**: Phone numbers (mobile and home), mailing address, emergency contact details
-* **Professional Information**: Occupation, company name, industry
-* **Military Information**: Military branch, rank, service status (if provided)
-* **Social Media**: Links to your social media profiles (if provided)
+Kappa Loop is provided to **member organizations** under a license. If you use Kappa Loop, you do so as a member, officer or guest of one of those organizations.
 
-### Usage Information
+**This distinction determines who decides what happens to your information:**
 
-We automatically collect:
+* **Your organization is the controller** of your membership record. It decides what member data exists, who may see it, and how long it is kept. Your name, membership number, chapter affiliation, leadership roles, financial standing and much of your contact information originate in **your organization's own membership system**, not in Kappa Loop.
+* **Clever Loops is the processor / service provider.** We host and operate the platform and process your information on your organization's instructions and to deliver the service.
+* For a limited set of information — account credentials, device and app diagnostics, and platform security and abuse-prevention records — **Clever Loops acts on its own behalf.**
 
-* **Device Information**: Device type, operating system, unique device identifiers
-* **Usage Data**: Features used, content viewed, time spent in app, interaction patterns
-* **Log Data**: IP address, access times, app crashes, error logs
-* **Analytics**: Anonymized usage statistics using SHA-256 hashed identifiers
+**Practical consequence:** if you ask us to change or delete your membership record, we may need to route that request to your organization, because their system is the source and it re-supplies the data to us continuously. Section 9 explains this.
 
-### Content You Create
+Your use of Kappa Loop is also governed by our [Terms of Service](terms.md).
 
-We collect information you provide when using the App:
+## 2. Information we collect
 
-* **Announcements**: Content, images, attachments you create or manage
-* **Events**: Event details, descriptions, images, attachments you create
-* **Interest/RSVP Data**: Events you express interest in
-* **Drafts**: Unpublished content you save
+### 2.1 Information supplied by your organization
 
-### Biometric Information
+Synchronized from your organization's membership system and stored by us:
 
-* **Face ID/Touch ID/Fingerprint**: Used only for authentication on your device
-* **Biometric data never leaves your device** and is processed by your device's operating system
-* We store only encrypted credentials locally for biometric authentication
+* Name (first, middle, last, prefix, suffix), display name, profile photograph
+* Email address, mobile and home telephone numbers
+* Mailing address, and **geographic coordinates derived from that address**
+* Date of birth and age
+* Membership number, membership status, life-member status and number, initiation date
+* Chapter, region and organizational affiliations; leadership and officer roles
+* Financial-standing indicators (whether dues are current at national, province and chapter level), dues balances and obligations
+* Emergency contact name and telephone number
+* Occupation, employer, company website, industry, college major, student status
+* Military and veteran information: branch, rank, active-duty, retired, disabled-veteran, honorably-discharged and wartime-service indicators
+* Your privacy preferences (which of the above you have chosen to hide from other members)
 
-## How We Use Your Information
+### 2.2 Information you provide directly
 
-We use collected information to:
+* Account credentials (email or membership number, and a password)
+* Profile edits and social-profile links you choose to add
+* Content you create: announcements, events, meeting records, committee materials, uploaded images, documents and attachments
+* Event registrations, RSVPs, ticket purchases and answers to event questions
+* Support requests and their contents
+* Notification and privacy preferences
 
-### Provide Services
-* Create and manage your account
-* Display your profile to other verified members
-* Enable communication between members
-* Deliver announcements and event notifications
-* Sync your profile with the Fonteva membership system
+### 2.3 Information generated by your use of the platform
 
-### Improve Services
-* Analyze usage patterns to improve features
-* Identify and fix technical issues
-* Enhance app performance and user experience
-* Develop new features based on user behavior
+* **Authentication and session records** — sign-in events, session tokens, device identifiers
+* **Event and meeting attendance**, including check-in records and who checked you in
+* **Electronic voting records** — see Section 4
+* **Payment records** — see Section 3
+* **Content-view records** — which announcements and events you have viewed, with timestamps
+* **Communication records** — which emails and text messages we sent you, and whether they were delivered, opened or clicked
+* **Technical and security logs** — IP address, user agent, request paths, device model, operating system and app version, and records of failed or suspicious access attempts
+* **Registration attempts**, including unsuccessful ones
 
-### Communications
-* Send push notifications about events and announcements
-* Provide customer support and respond to inquiries
-* Send important organizational communications
-* Notify you of app updates
+### 2.4 Guests and non-members
 
-### Security
-* Monitor for fraudulent activity
-* Protect against security threats
-* Verify membership and maintain data integrity
+If you buy a ticket to a public event without an account, we collect your **name, email address and telephone number**, your purchase details, and your check-in record. You do not need an account, and we do not create a membership record for you.
 
-## How We Share Your Information
+### 2.5 What we do NOT collect
 
-### Within the Organization
+* **Biometric information.** Kappa Loop supports Face ID, Touch ID and fingerprint unlock. Your device's operating system performs the match and returns to the app **only a yes/no result**. We never receive, transmit or store a biometric image, template or identifier (Section 8).
+* **Payment card numbers, security codes or bank account numbers.** These go directly to Stripe and never reach our systems (Section 3).
+* **Precise or background location.** We do not track your location. Address autocomplete sends the partial address text you type to a mapping provider while you type it; nothing more.
+* **Government identifiers** (Social Security number, driver's license, passport). If you set up a chapter to receive payments, Stripe collects identity information directly and we never see it.
+* We do **not** sell your personal information, share it for cross-context behavioral advertising, or operate any advertising or attribution tracking.
 
-* **Other Members**: Your profile information (subject to your privacy settings) is visible to other verified members
-* **Chapter Officers**: May access member information for organizational purposes
-* **Administrators**: Have access to manage organizational content and users
+## 3. Payments
 
-### Integrations
+Payments in Kappa Loop are processed by **Stripe, Inc.** Card details are entered directly into Stripe-controlled fields and go straight to Stripe. **Clever Loops never receives your card number or security code.**
 
-* **Fonteva System**: Profile data syncs automatically with the Fonteva membership system
+We store, in connection with a payment:
 
-### Legal Requirements
+* Stripe identifiers (customer, payment method, payment intent, charge)
+* The card **brand, last four digits and expiry month/year**, funding type and wallet
+* Billing postal code and country, and the address/security-code verification results
+* Amount, currency, date, status, and any decline or failure reason
+* What the payment was for, and how it was distributed
 
-We may disclose information when required by law or to:
+Clever Loops **facilitates** payments through software. Stripe is the payment processor; funds settle to accounts controlled by your organization or your chapter, and Clever Loops receives a platform fee. **Clever Loops is not a bank, payment processor or money transmitter.**
 
-* Comply with legal processes or government requests
-* Enforce our terms of service
-* Protect our rights, privacy, safety, or property
-* Prevent fraud or security issues
+Payment records are also written back to your organization's own financial system.
 
-## Your Privacy Controls
+## 4. Electronic voting
 
-### Profile Visibility
+Kappa Loop supports electronic voting on organizational matters, in two forms:
 
-You can control what other members see in **Privacy & Security** settings:
+* **Polls** (non-anonymous): your selection is recorded together with your account, and may be shown to the poll's organizers.
+* **Ballots** (anonymous): your selection is stored **without your user identifier**. Whether you voted is recorded separately, using a one-way cryptographic hash, so that each eligible member can vote only once. Ballot data is accessible only to our server systems — not to other members, not to officers, and not to any app or web client — and results are presented in aggregate.
 
-* Hide mobile phone number
-* Hide home phone number
-* Hide mailing address
-* Hide email address
-* Hide date of birth
-* Hide emergency contact information
+We record: your eligibility to vote, whether you voted, when, the weight of your vote, whether it was cast by proxy, and your selections (linked to you for polls; not linked to you for ballots).
 
-### Notification Preferences
+**A known limitation, stated plainly:** in weighted elections where a voting weight is held by only one delegate, and in very small electorates, it is currently possible for someone with direct access to our database to infer how an individual voted. No member or officer has that access. **This is being corrected**, and this section will be updated when it is.
 
-Control which notifications you receive in **Notification Settings**:
+## 5. How and why we use your information
 
-* Enable/disable all push notifications
-* Manage specific notification types
-* Adjust notification frequency
+| Purpose | Examples |
+| --- | --- |
+| Provide the service | Accounts, member directory, events, meetings, committees, announcements, voting, check-in |
+| Process payments | Dues, tickets, refunds, receipts, reconciliation with your organization's records |
+| Communicate | Push notifications, transactional email, text messages, event reminders, organizational announcements |
+| Support | Answering your requests. Ticket text may be processed by an AI service to suggest a category and draft a reply; **a human reviews before anything is sent to you** |
+| Security and abuse prevention | Authentication, rate limiting, bot detection, detecting scraping and unauthorized access |
+| Improve the product | Understanding which features are used, diagnosing crashes and errors |
+| Legal and record-keeping | Financial records, audit trails, responding to lawful requests |
 
-### Data Collection
+## 6. Your choices and controls
 
-* **Usage Analytics**: Can be disabled in Privacy & Security settings
-* **Biometric Authentication**: Optional; can be enabled or disabled anytime
+**In the app or on the web you can:**
 
-## Data Security
+* **Control which profile fields are shown on your profile and chapter roster** — mobile phone, home phone, mailing address, email address, date of birth, and emergency contact information.
+* **Control notifications** — a master switch plus granular controls by scope (chapter, region, national) and type (events, announcements, meetings, voting, tickets, dues).
+* **Turn off analytics and crash reporting in the mobile app.** One switch disables both.
 
-We implement industry-standard security measures:
+**Please note:**
 
-* **Encryption**: Data encrypted in transit (HTTPS/TLS) and at rest
-* **Authentication**: Secure password hashing and token-based authentication
-* **Access Controls**: Role-based access to sensitive information
-* **Secure Storage**: Credentials encrypted on device using platform-specific secure storage
-* **Regular Updates**: Security patches and updates applied promptly
+* The **web application does not currently offer an analytics opt-out.** The mobile app does.
+* Some fields — membership status, life-member status, chapter mapping, and the privacy settings themselves — are supplied by your organization and are refreshed from their system regularly. **A change made in Kappa Loop to one of those fields will be overwritten.** Those changes must be made through your organization.
 
-### Your Responsibilities
+## 7. Who we share information with
 
-* Keep your password secure and confidential
-* Do not share your account credentials
-* Log out when using shared devices
-* Report security issues immediately
+### 7.1 Within your organization
 
-## Data Retention
+Your profile is visible to other verified members of your organization, subject to Section 6. Officers and administrators can see and manage information within their scope — a chapter administrator sees their chapter, a regional administrator their region. Access is role-based and administrative actions are recorded in an audit log.
 
-We retain your information for as long as:
+### 7.2 Service providers
 
-* Your account is active
-* Needed to provide services
-* Required by law or organizational records
-* Necessary for legitimate business purposes
+We use third-party providers to operate the platform. As of this policy's date they are: Google Cloud, Supabase, Cloudflare, Vercel, Stripe, Algolia, OneSignal, Firebase (Google), Resend, Amazon Web Services, Twilio, Radar, Axiom, Anthropic, Shorebird and GitHub. Each receives only the information it needs to provide its service to us. A detailed list of what each provider receives is available on request.
 
-When you delete your account, we:
+### 7.3 Your organization's own systems
 
-* Remove your authentication credentials immediately
-* Anonymize your profile information
-* Retain some data for organizational integrity (event history, content authorship)
+Membership data flows in from, and payment records flow back to, your organization's own membership and financial system. **That system is your organization's, governed by your organization's own privacy practices, not this policy.**
 
-See our [Data Deletion Policy](data-deletion.md) for complete details.
+### 7.4 Legal and safety
 
-## Children's Privacy
+We may disclose information where required by law or legal process, to enforce our terms, or to protect the rights, safety or property of Clever Loops, our customers or the public.
 
-The Kappa Loop app is intended for members of Kappa Alpha Psi Fraternity, Inc., who are 18 years or older. We do not knowingly collect information from individuals under 18.
+### 7.5 Business transfers
 
-## International Users
+If Clever Loops is involved in a merger, acquisition or sale of assets, information may transfer as part of that transaction, subject to the license agreement with your organization.
 
-The App is operated in the United States. By using the App, you consent to the transfer of your information to the United States, which may have different data protection laws than your country of residence.
+### 7.6 We do not sell your information
 
-## Third-Party Links
+We do not sell personal information, share it for cross-context behavioral advertising, or provide it to data brokers. There is no advertising or attribution technology in Kappa Loop.
 
-The App may contain links to external websites or services. We are not responsible for the privacy practices of these third parties. Please review their privacy policies before providing any information.
+## 8. Biometric authentication
 
-## Analytics and Cookies
+If you enable Face ID, Touch ID or fingerprint unlock:
 
-### Usage Analytics
+* Your device's operating system performs the biometric match in secure hardware.
+* The app receives **only a yes/no result** and the type of biometric available (used solely to display "Face ID" or "Fingerprint").
+* **No biometric image, template or identifier is ever transmitted to or stored by Clever Loops.**
+* To make unlock work, your sign-in credentials are stored **on your device** in the operating system's secure storage (iOS Keychain, Android hardware-backed encrypted storage). They are encrypted at rest on the device and are not sent to us.
+* Turning biometric unlock off deletes those stored credentials from your device.
 
-We collect anonymous usage statistics to understand how users interact with the App:
+## 9. Retention and deletion
 
-* User identity anonymized using SHA-256 hashing
-* Collects device type, OS version, app version
-* Tracks feature usage and navigation patterns
-* Aggregated data only; no personally identifiable information
+### 9.1 How long we keep information
 
-### Local Storage
+| Category | Retention |
+| --- | --- |
+| Membership record | For as long as your organization maintains it. **Your organization controls this** |
+| Account and authentication records | Life of the account; deleted on account deletion |
+| Payment and financial records | **7 years** from the transaction (financial record-keeping) |
+| Event, ticket and attendance records | 7 years |
+| Voting records | Per your organization's governance requirements |
+| Support requests | 3 years |
+| Security and audit logs | 90 days to 2 years depending on type |
+| Application and infrastructure logs | 30 days |
+| Analytics | Per the provider's retention settings |
+| Backups | Per platform backup retention; deleted data persists in backups until they age out |
 
-We store data locally on your device:
+### 9.2 Deleting your account — what actually happens
 
-* Authentication tokens in secure storage
-* User preferences in SharedPreferences
-* Cached content for offline access
-* Biometric credentials (encrypted, never transmitted)
+Request deletion by contacting us or your organization. When you delete your account, we delete your login account and password immediately, ending all your sessions; delete your stored device credentials and push-notification tokens; and remove your name from content you authored, where doing so does not break organizational records.
 
-## Your Rights
+**A constraint we cannot remove on our own:** your membership record is continuously re-supplied to us from your organization's system, and will be restored on the next synchronization unless your organization also suppresses it. **A complete deletion therefore requires action by your organization as well.** We will forward your request and tell you what happened.
 
-Depending on your location, you may have rights to:
+## 10. Your privacy rights
 
-* **Access**: Request a copy of your personal information
-* **Correction**: Update or correct your information
-* **Deletion**: Request deletion of your account and data
-* **Portability**: Receive your data in a portable format
-* **Opt-Out**: Disable analytics and certain data collection
-* **Object**: Object to certain processing of your information
+Depending on where you live, you may have rights to **access**, **correct**, **delete** or obtain a **portable copy** of your personal information, to **opt out** of certain processing, and to be free from discrimination for exercising these rights.
 
-To exercise these rights, contact us using the information below.
+**How to make a request:** email team@kappaloop.com. We will verify your identity before acting, tell you what we can do directly, and route to your organization anything that is theirs to decide.
 
-## Updates to This Policy
+**Current limitation:** we do not yet offer a self-service export of all your information. Requests are fulfilled manually.
 
-We may update this Privacy Policy periodically. Changes will be posted within the App with an updated "Last Updated" date. Continued use of the App after changes constitutes acceptance of the updated policy.
+**California residents.** We do not sell personal information and do not share it for cross-context behavioral advertising. We collect the categories described in Section 2, for the purposes in Section 5, from the sources in Section 2, and disclose them to the recipients in Section 7.
 
-For material changes, we will provide prominent notice or request consent as required by law.
+**Users outside the United States.** Kappa Loop is operated in the United States and your information is stored and processed there.
 
-## Contact Us
+## 11. Security
 
-If you have questions about this Privacy Policy or our data practices:
+We protect your information with, among other measures: encryption in transit (TLS) and at rest; row-level security on every database table; role-based access control enforced on every administrative action; isolation of our application servers behind an authenticated edge; secrets held in a managed secrets service; audit logging of administrative changes; automated alerting on suspicious access patterns; and a deliberate practice of keeping personal information out of application logs.
 
-**Kappa Alpha Psi Fraternity, Inc.**
+**We describe our security honestly, including where it is incomplete.** As of this policy's date, multi-factor authentication is available but **not required**, and we do not operate real-time network intrusion detection.
 
-🔗 [Submit a Support Request](https://www.kappaalphapsi1911.com/need-assistance/)
+No system is completely secure. Please use a strong, unique password, do not share your account, and tell us promptly if you suspect unauthorized access.
 
-Please select "Mobile Application" from the drop-down menu and mention "Privacy Policy" in your inquiry.
+**If a breach affects your information**, we will notify you and the appropriate authorities in accordance with applicable law.
 
-## California Privacy Rights
+## 12. Children
 
-If you are a California resident, you have additional rights under the California Consumer Privacy Act (CCPA):
+Kappa Loop is intended for members of adult membership organizations and is **not directed to anyone under 18**. We do not knowingly collect information from anyone under 18. If we learn we have, we will delete it. If you believe a minor has provided us information, contact us.
 
-* Right to know what personal information is collected
-* Right to know if personal information is sold or disclosed
-* Right to opt-out of sale of personal information
-* Right to deletion of personal information
-* Right to non-discrimination for exercising CCPA rights
+## 13. Changes to this policy
 
-**Note**: We do not sell personal information to third parties.
+We will post changes here with an updated date. For material changes we will provide prominent notice in the app or by email.
 
-## European Users (GDPR)
+## 14. Contact
 
-If you are in the European Economic Area, you have rights under the General Data Protection Regulation (GDPR):
+**Clever Loops, Inc.**\
+Email: team@kappaloop.com\
+Postal: 13142 Pelfrey Ln, Fairfax, VA 22033-3028
 
-* **Legal Basis**: We process your data based on:
-  * Contractual necessity (to provide services)
-  * Legitimate interests (to improve services)
-  * Consent (for optional features like analytics)
-
-* **Data Controller**: Kappa Alpha Psi Fraternity, Inc.
-* **Data Protection Officer**: Contact via support request above
-
-## Data Breach Notification
-
-In the event of a data breach affecting your personal information, we will:
-
-* Notify affected users without undue delay
-* Report to relevant authorities as required by law
-* Take immediate steps to secure systems
-* Provide information about the breach and mitigation steps
-
----
-
-_Last updated: February 2026_
-
-_This policy is effective as of the date listed above and applies to all users of the Kappa Loop mobile application._
+For questions about your **membership record** — its accuracy, or its deletion from your organization's own systems — contact your organization directly. We will help you route the request.

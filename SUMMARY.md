@@ -10,6 +10,7 @@
 ## Chapter Dues _(For Chapter Officers)_
 
 * [Setting Up Chapter Dues](chapter-dues/officer-setup.md)
+* [How Dues Payments Work](chapter-dues/how-payments-work.md) _(For Payment Managers)_
 
 ## Profile & Account
 

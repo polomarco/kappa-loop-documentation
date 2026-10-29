@@ -37,6 +37,27 @@ Every brother can owe dues at three levels. Each one is a separate organization 
 * Brothers can pay **next year's** dues starting **August 1**.
 * Dues are always for one year. A payment for last year never counts for this year.
 
+### What changes in Fonteva at the year change
+
+IHQ's Office of the Grand Keeper of Records publishes these dates. For FY 2026–27, they're from its advisory of September 30, 2026.
+
+| Date | What happens in Fonteva | What it means in Kappa Loop |
+|---|---|---|
+| **October 1, 4:00 AM ET** | Every brother whose dues expired September 30 becomes **Not In Good Standing**. There's no grace period. The confirmed-member count on your chapter page drops, because it counts only brothers In Good Standing. | Brothers who haven't renewed with Grand Chapter show **Unfinancial** for chapter dues, even if they're still confirmed on your roster. |
+| **November 1** | Brothers unfinancial for **more than two years** are moved off your chapter to the Grand Chapter Not In Good Standing account. | Within about an hour, they drop off your **Dues → Members** list. If one later pays your chapter's dues in Kappa Loop, he's put back on your roster in Fonteva. |
+| **January 1, 2027** | Chapter officer roles are removed from any officer still **Not In Good Standing**. Officers have through **December 31, 2026** to pay. | An officer who loses his Fonteva role can no longer confirm your roster in Fonteva. His Kappa Loop **Payment Manager** or **Chapter Manager** role is **not** removed automatically. |
+
+**What does not change on October 1:**
+
+* **Rosters aren't cleared.** Brothers checked as confirmed stay checked. Only chapter officers (Keeper of Records or Keeper of Exchequer) can change the roster.
+* **Province financial status isn't cleared.** Province checkmarks from last year stay green.
+* **Brothers aren't removed from their chapters** on October 1.
+* **Officers keep their officer access** through December 31. An officer who isn't In Good Standing can still confirm the roster, run officer reports and handle delegates. Like any brother, he loses member-side items such as his membership card, the directory, event registration and member pricing until he pays. These come back within about an hour of payment.
+
+{% hint style="warning" %}
+**Green checkmarks carried over from last year are not this year's payments.** Fonteva keeps last year's chapter and province checkmarks. Kappa Loop doesn't count them as paid for this year. See [How Kappa Loop reads Fonteva](#how-kappa-loop-reads-fonteva).
+{% endhint %}
+
 ---
 
 ## Where "paid" comes from
@@ -63,7 +84,8 @@ It matters at your tier too:
 
 * **Fonteva only lists brothers who are In Good Standing** in its Confirm Roster tool. You can't confirm a brother who hasn't paid Grand Chapter.
 * **When a brother pays your chapter in Kappa Loop before he's In Good Standing,** your chapter still gets the money right away, and Kappa Loop records him as paid. His Fonteva chapter checkmark waits, and it turns on automatically once he pays Grand Chapter.
-* A brother who misses the national deadline drops out of good standing. Payments he makes to your chapter after that are still yours. They show in Fonteva only after he's back in good standing.
+* A brother who hasn't renewed by **October 1 at 4:00 AM ET** drops out of good standing. Payments he makes to your chapter after that are still yours. They show in Fonteva only after he's back in good standing.
+* **When he pays Grand Chapter,** he's back In Good Standing within about an hour.
 
 ---
 
@@ -90,6 +112,12 @@ When you run **Confirm Roster** in Fonteva for a brother, Fonteva:
 
 It also records the date your chapter last confirmed its roster.
 
+**Fonteva also confirms some brothers for you.** Per IHQ, when a brother pays his Grand Chapter dues and your chapter's roster is confirmed, Fonteva re-confirms him automatically and notifies your Chapter Polemarch. Your Keeper of Records doesn't need to re-add him.
+
+{% hint style="warning" %}
+**An automatic re-confirmation counts as chapter dues paid in Kappa Loop.** Once Fonteva re-confirms a brother this year, Kappa Loop treats his chapter dues as paid, even if he only paid Grand Chapter. Watch for Polemarch notifications about re-confirmed brothers. If one hasn't paid your chapter, have his confirmation removed, or he won't be able to pay you in Kappa Loop.
+{% endhint %}
+
 {% hint style="danger" %}
 **Only confirm brothers who have paid your chapter, and your province if you collect province dues.**
 Kappa Loop treats a confirmed brother as **paid** for chapter dues, and usually for province dues as well. Once you confirm him, his Pay Dues screen stops asking him for those dues. If you confirm a brother who hasn't paid, he can no longer pay those dues in Kappa Loop until his confirmation is removed.
@@ -111,12 +139,13 @@ Fonteva and Kappa Loop sync about once an hour. A roster confirmation you make i
 
 ### Why you should confirm often
 
-* **Last year's confirmation doesn't count.** Fonteva keeps only your chapter's *latest* confirmation date. Until you confirm in the new fraternal year, Kappa Loop treats every brother on your roster as owing chapter dues, including the ones who already paid you in cash or by Zelle. Those brothers will be asked to pay again.
+* **Last year's confirmation doesn't count.** Fonteva doesn't clear rosters at the year change, so last year's checkmarks stay green. But Fonteva keeps only your chapter's *latest* confirmation date, and Kappa Loop counts it only if it falls in this fraternal year. Until you confirm after October 1, Kappa Loop treats every brother on your roster as owing chapter dues, including the ones who already paid you in cash or by Zelle. Those brothers will be asked to pay again.
 * **New brothers start out unconfirmed.** When a brother is added to your chapter in Fonteva, he isn't confirmed, and Fonteva flags your chapter's roster as needing confirmation again. Until you confirm him, Kappa Loop shows him as owing.
-* **Confirmations don't last forever.** Fonteva un-confirms brothers between years. A brother confirmed last year may show unconfirmed now.
+* **Brothers move off your roster.** On November 1, Fonteva moves brothers unfinancial for more than two years to the Grand Chapter Not In Good Standing account.
 * **Brothers who pay off-platform only show as paid once you act.** Either confirm them in Fonteva or use **Mark paid**.
+* **Your officers need to be In Good Standing by December 31.** After January 1, an officer who isn't In Good Standing loses his Fonteva officer role and can't confirm your roster.
 
-**Good habit:** confirm your roster at the start of the fraternal year, right after each collection push, and whenever brothers join or transfer in.
+**Good habit:** confirm your roster at the start of the fraternal year (after October 1), right after each collection push, and whenever brothers join or transfer in. Make sure whoever confirms it has renewed his own Grand Chapter dues before January 1.
 
 {% hint style="info" %}
 Brothers who pay your chapter **in Kappa Loop** don't need you to do anything. Kappa Loop turns on their Fonteva chapter checkmark for you. See the next section.
@@ -282,7 +311,7 @@ A life member at a tier owes **no dues at that tier, ever**. Kappa Loop doesn't 
 If he's on your roster and In Good Standing, confirm him in Fonteva. Kappa Loop will show him **Paid (Fonteva)** within about an hour. If he isn't In Good Standing yet, or he's an associate member, use **Mark paid**.
 
 **My whole roster shows Unfinancial, but most brothers paid us.**
-Your chapter probably hasn't confirmed its roster since October 1. Confirm in Fonteva, and check back in about an hour.
+Your chapter probably hasn't confirmed its roster since October 1. Confirm in Fonteva, and check back in about an hour. Brothers who haven't renewed Grand Chapter dues also show Unfinancial, because they've been Not In Good Standing since October 1 at 4:00 AM ET.
 
 **A brother paid in Kappa Loop, but his Fonteva chapter checkmark is still red.**
 Either he isn't In Good Standing nationally yet, and the checkmark turns on once he is, or it's been less than an hour. If he's In Good Standing and it's been a day, [contact support](https://kappaloop.com/support).

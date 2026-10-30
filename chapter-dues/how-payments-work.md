@@ -49,7 +49,9 @@ Your Keeper of Exchequer or Keeper of Records does this in the Brothers Only Por
 5. **Select Confirm Roster.** It lists every brother on your roster who is In Good Standing and not yet confirmed, and **all of them are ticked to start with.** **Untick every brother who hasn't paid your chapter**, check the **Selected Rows** count, then select **Confirm**. You'll see "Your roster is confirmed" with the date and time.
 6. After about an hour, check **Management Console → Dues → Members** in Kappa Loop. Brothers you confirmed show as **Paid (Fonteva)**. Everyone else shows as **Unfinancial** and can pay you in the app.
 
-The **Financial Status** tab (under **More**) shows each brother's National, Province and Chapter checkmarks.
+{% hint style="info" %}
+**To see who is confirmed, use the Financial Status tab, not the roster.** The **Active Members** list on Roster Report shows every brother on your roster but doesn't say which are confirmed. Open **More → Financial Status** instead. Its **Chapter Level** column shows a green check for confirmed brothers and a red X for brothers on your roster who aren't confirmed. It lists only brothers who are In Good Standing with Grand Chapter. Brothers who haven't renewed don't appear there.
+{% endhint %}
 
 {% hint style="danger" %}
 **Dropping one brother unconfirms your whole roster.** When you drop a brother, Fonteva:

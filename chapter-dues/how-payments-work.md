@@ -46,7 +46,7 @@ Your Keeper of Exchequer or Keeper of Records does this in the Brothers Only Por
 2. Open the **Roster Report** tab. You'll see **Add a Member To Your Roster**, the **Confirm Roster** button, who confirmed it last and when, and your **Active Members**.
 3. **Drop brothers who haven't paid your chapter.** Select **Drop** on his row, choose a **Drop Reason** (Graduated, Inactive, Moved, Non-paying or Deceased), and select **Confirm**.
 4. **Add brothers who are missing.** Search for him under **Add a Member To Your Roster**.
-5. **Select Confirm Roster**, and select every brother who has paid your chapter.
+5. **Select Confirm Roster.** It lists every brother on your roster who is In Good Standing and not yet confirmed, and **all of them are ticked to start with.** **Untick every brother who hasn't paid your chapter**, check the **Selected Rows** count, then select **Confirm**. You'll see "Your roster is confirmed" with the date and time.
 6. After about an hour, check **Management Console → Dues → Members** in Kappa Loop. Brothers you confirmed show as **Paid (Fonteva)**. Everyone else shows as **Unfinancial** and can pay you in the app.
 
 The **Financial Status** tab (under **More**) shows each brother's National, Province and Chapter checkmarks.

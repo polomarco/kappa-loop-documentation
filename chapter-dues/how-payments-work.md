@@ -9,7 +9,7 @@ This page explains what happens behind the **Pay Dues** button. It covers how Ka
 
 1. **Grand Chapter, province and chapter dues are three separate payments to three separate exchequers.** Paying one never pays another.
 2. **Good standing with Grand Chapter comes first.** Fonteva only shows a brother as chapter- or province-financial once he's In Good Standing nationally.
-3. **Confirming your roster in Fonteva tells Kappa Loop who has paid your chapter.** Before you confirm, remove brothers who haven't paid you this year, and confirm again whenever your roster changes.
+3. **Confirming your roster in Fonteva tells Kappa Loop who has paid your chapter.** Before you confirm, drop brothers who haven't paid you this year, and confirm again after every change. Dropping anyone unconfirms your whole roster.
 4. **Mark paid records a payment in Kappa Loop only.** It doesn't move money and it doesn't change Fonteva.
 5. **A refund returns only your own exchequer's share,** and it doesn't change a brother's standing in Fonteva.
 6. **Province dues your chapter collects are owed to your province.** Export the list, send the money, mark it submitted, and your province confirms receipt.
@@ -42,31 +42,49 @@ Kappa Loop counts a brother's chapter dues as **paid** for the year if any one o
 
 Your Keeper of Exchequer or Keeper of Records does this in the Brothers Only Portal (Fonteva):
 
-1. **Review your chapter roster.**
-2. **Remove brothers who haven't paid your chapter** for the year. **Add any brothers who are missing.**
-3. **Confirm the roster.**
-4. After about an hour, check **Management Console → Dues → Members** in Kappa Loop. Brothers on your confirmed roster show as **Paid (Fonteva)**. Brothers who aren't on it show as **Unfinancial** and can pay you in the app.
+1. Go to **Chapter Administration → Chapter Management**, and select **View** next to your chapter.
+2. Open the **Roster Report** tab. You'll see **Add a Member To Your Roster**, the **Confirm Roster** button, who confirmed it last and when, and your **Active Members**.
+3. **Drop brothers who haven't paid your chapter.** Select **Drop** on his row, choose a **Drop Reason** (Graduated, Inactive, Moved, Non-paying or Deceased), and select **Confirm**.
+4. **Add brothers who are missing.** Search for him under **Add a Member To Your Roster**.
+5. **Select Confirm Roster**, and select every brother who has paid your chapter.
+6. After about an hour, check **Management Console → Dues → Members** in Kappa Loop. Brothers you confirmed show as **Paid (Fonteva)**. Everyone else shows as **Unfinancial** and can pay you in the app.
+
+The **Financial Status** tab (under **More**) shows each brother's National, Province and Chapter checkmarks.
+
+{% hint style="danger" %}
+**Dropping one brother unconfirms your whole roster.** When you drop a brother, Fonteva:
+
+* moves him off your chapter to the **Grand Chapter** account, with the reason and date,
+* removes any officer role he held in your chapter, and
+* **unconfirms every brother on your roster and clears your chapter's confirmation.**
+
+So **always confirm your roster again right after you drop someone.** Until you do, Kappa Loop shows every brother in your chapter as owing chapter dues, including those who already paid you outside the app, and some may pay twice.
+{% endhint %}
 
 {% hint style="warning" %}
-**Update the roster before you confirm it, every time.** Fonteva carries your roster over from last year, and everyone on it stays confirmed. The first time you confirm after October 1, every brother on the roster counts as paid for the new year in Kappa Loop, once he's In Good Standing with Grand Chapter. That includes brothers who haven't paid you anything this year. Kappa Loop stops asking them for chapter dues.
+**If you confirm without dropping anyone, last year's confirmations still count.** Fonteva carries your roster over from last year, and brothers stay confirmed until a drop clears them. The first time you confirm after October 1, every brother still confirmed counts as paid for the new year in Kappa Loop, once he's In Good Standing with Grand Chapter. That can include brothers who haven't paid you anything this year. So start each year by dropping the brothers who haven't paid, which clears everyone, and then confirm the ones who have.
 {% endhint %}
 
 {% hint style="info" %}
-**Brothers left on your roster get confirmed when they renew.** Confirm Roster only lists brothers who are In Good Standing. So a brother who hasn't renewed with Grand Chapter can stay on your roster unconfirmed. When he renews, Fonteva confirms him automatically, and Kappa Loop then counts his chapter dues as paid. If he hasn't paid your chapter, remove him from your roster rather than leaving him on it. See [Fonteva also confirms some brothers for you](#what-confirming-your-roster-does).
+**Brothers left on your roster get confirmed when they renew.** Confirm Roster only lists brothers who are In Good Standing. So a brother who hasn't renewed with Grand Chapter can stay on your roster unconfirmed. When he renews, Fonteva confirms him automatically if your roster is confirmed, and Kappa Loop then counts his chapter dues as paid. If he hasn't paid your chapter, drop him rather than leaving him on the roster. See [Fonteva also confirms some brothers for you](#what-confirming-your-roster-does).
 {% endhint %}
+
+**Dropped a brother who later pays?** He can still pay your chapter in Kappa Loop. Once he's In Good Standing with Grand Chapter, that puts him back on your roster in Fonteva automatically. If he pays you another way, add him back and confirm your roster.
+
+**Affiliated brothers** (members whose home chapter is elsewhere) have their own list with a **Drop** button. It removes the affiliation only.
 
 ### Your routine
 
-1. **Right after October 1:** update your roster and confirm it. Remove brothers who haven't paid you for the new year first.
+1. **Right after October 1:** drop brothers who haven't paid you for the new year, then confirm your roster with everyone who has.
 2. **Every week during dues season:** open **Management Console → Dues → Members**. It opens on **Unfinancial**. For anyone on that list who has paid you, use the table above.
-3. **As brothers renew with Grand Chapter:** check whether each one paid your chapter. Fonteva confirms brothers on your roster automatically when they renew, and emails your Polemarch if he has an email on file. If a brother hasn't paid you, remove him from your roster.
+3. **As brothers renew with Grand Chapter:** check whether each one paid your chapter. Fonteva confirms brothers on your roster automatically when they renew, and emails your Polemarch if he has an email on file. If a brother hasn't paid you, drop him, then confirm your roster again.
 4. **When a brother joins or transfers in:** add him to your roster and confirm it once he has paid.
-5. **When you refund a brother:** remove him from your roster in Fonteva. Otherwise Kappa Loop keeps showing him as paid.
+5. **When you refund a brother:** drop him in Fonteva, then confirm your roster again. Otherwise Kappa Loop keeps showing him as paid.
 6. **Before December 31:** make sure whoever confirms your roster has renewed his own Grand Chapter dues. On January 1, Fonteva removes officer roles from officers who aren't In Good Standing.
 7. **If you collect province dues:** send them to your province and record it under [Reconcile with Province](#sending-province-dues-to-your-province).
 
 {% hint style="danger" %}
-**Never confirm a roster with unpaid brothers on it,** whether they're new this year or carried over from last year. Kappa Loop will treat them as paid, and they won't be able to pay you in the app until they're removed from your roster.
+**Never confirm a roster with unpaid brothers on it,** whether they're new this year or carried over from last year. Kappa Loop will treat them as paid, and they won't be able to pay you in the app until they're dropped from your roster.
 {% endhint %}
 
 The rest of this page explains why each step works the way it does.
@@ -105,13 +123,13 @@ These dates come from IHQ's Office of the Grand Keeper of Records, which sends a
 
 **What does not change on October 1:**
 
-* **Rosters aren't cleared.** Brothers checked as confirmed stay checked. Only chapter officers (Keeper of Records or Keeper of Exchequer) can change the roster, so removing brothers who haven't paid is up to you. See [How to update and confirm your roster](#how-to-update-and-confirm-your-roster).
+* **Rosters aren't cleared.** Brothers checked as confirmed stay checked. Only chapter officers (Keeper of Records or Keeper of Exchequer) can change the roster, so dropping brothers who haven't paid is up to you. See [How to update and confirm your roster](#how-to-update-and-confirm-your-roster).
 * **Province financial status isn't cleared.** Province checkmarks from last year stay green.
 * **Brothers aren't removed from their chapters** on October 1.
 * **Officers keep their officer access** through December 31. An officer who isn't In Good Standing can still confirm the roster, run officer reports and handle delegates. Like any brother, he loses member-side items such as his membership card, the directory, event registration and member pricing until he pays. These come back within about an hour of payment.
 
 {% hint style="warning" %}
-**Green checkmarks carried over from last year are not this year's payments, but Kappa Loop can count them as if they were.** Until your chapter confirms its roster after October 1, Kappa Loop ignores them. After that, every brother still on your roster counts as paid. Remove brothers who haven't paid before you confirm. See [How to update and confirm your roster](#how-to-update-and-confirm-your-roster).
+**Green checkmarks carried over from last year are not this year's payments, but Kappa Loop can count them as if they were.** Until your chapter confirms its roster after October 1, Kappa Loop ignores them. After that, every brother still on your roster counts as paid. Drop brothers who haven't paid before you confirm. See [How to update and confirm your roster](#how-to-update-and-confirm-your-roster).
 {% endhint %}
 
 ---
@@ -178,12 +196,12 @@ It also records the date your chapter last confirmed its roster.
 If your Polemarch has an email on file, Fonteva emails him about it. Your Keeper of Records doesn't need to re-add the brother.
 
 {% hint style="warning" %}
-**An automatic re-confirmation counts as chapter dues paid in Kappa Loop.** Once Fonteva re-confirms a brother this year, Kappa Loop treats his chapter dues as paid, even if he only paid Grand Chapter. Watch for these re-confirmations as brothers renew. If one hasn't paid your chapter, remove him from your roster, or he won't be able to pay you in Kappa Loop.
+**An automatic re-confirmation counts as chapter dues paid in Kappa Loop.** Once Fonteva re-confirms a brother this year, Kappa Loop treats his chapter dues as paid, even if he only paid Grand Chapter. Watch for these re-confirmations as brothers renew. If one hasn't paid your chapter, drop him and confirm your roster again, or he won't be able to pay you in Kappa Loop.
 {% endhint %}
 
 {% hint style="danger" %}
 **Only confirm brothers who have paid your chapter, and your province if you collect province dues.**
-Kappa Loop treats a confirmed brother as **paid** for chapter dues, and usually for province dues as well. Once you confirm him, his Pay Dues screen stops asking him for those dues. If you confirm a brother who hasn't paid, he can no longer pay those dues in Kappa Loop until he's removed from your roster.
+Kappa Loop treats a confirmed brother as **paid** for chapter dues, and usually for province dues as well. Once you confirm him, his Pay Dues screen stops asking him for those dues. If you confirm a brother who hasn't paid, he can no longer pay those dues in Kappa Loop until he's dropped from your roster.
 {% endhint %}
 
 ### How Kappa Loop reads Fonteva
@@ -203,7 +221,7 @@ Fonteva and Kappa Loop sync about once an hour. A roster confirmation you make i
 ### Why you should confirm often
 
 * **Until you confirm after October 1, everyone owes.** Fonteva keeps only your chapter's *latest* confirmation date, and Kappa Loop counts it only if it falls in this fraternal year. Until then, Kappa Loop treats every brother on your roster as owing chapter dues, including the ones who already paid you in cash or by Zelle. Those brothers will be asked to pay again.
-* **Once you confirm, everyone on your roster is paid.** Fonteva carries your roster over at the year change. Your first confirmation after October 1 makes every confirmed brother on it count as paid once he's In Good Standing with Grand Chapter, whether or not he paid you. [Remove the ones who haven't before you confirm](#how-to-update-and-confirm-your-roster).
+* **Once you confirm, everyone on your roster is paid.** Fonteva carries your roster over at the year change. Your first confirmation after October 1 makes every confirmed brother on it count as paid once he's In Good Standing with Grand Chapter, whether or not he paid you. [Drop the ones who haven't before you confirm](#how-to-update-and-confirm-your-roster).
 * **New brothers start out unconfirmed.** When a brother is added to your chapter in Fonteva, he isn't confirmed, and Fonteva flags your chapter's roster as needing confirmation again. Until you confirm him, Kappa Loop shows him as owing.
 * **Brothers move off your roster.** On November 1, Fonteva moves brothers unfinancial for more than two years to the Grand Chapter Not In Good Standing account.
 * **Brothers who pay off-platform only show as paid once you act.** Either confirm them in Fonteva or use **Mark paid**.
@@ -232,7 +250,7 @@ When a brother pays online, Kappa Loop updates Fonteva for him, usually within a
 Things to know:
 
 * **Chapter and province checkmarks wait for good standing.** If he isn't In Good Standing nationally, the update is held and goes through when he is.
-* **Kappa Loop only turns checkmarks on.** It never turns them off. Removing a brother from your roster stays a Fonteva task.
+* **Kappa Loop only turns checkmarks on.** It never turns them off. Dropping a brother from your roster stays a Fonteva task.
 * **Paying a chapter doesn't change a brother's primary chapter** unless he chooses that chapter as his primary at checkout.
 * **Your 2.5% service fee never appears in Fonteva.** Fonteva records the dues amount only.
 
@@ -287,7 +305,7 @@ Refunds are only for payments made **in Kappa Loop**. For how to issue one, see 
 
 ### What a refund changes in Fonteva
 
-* **Chapter and province refunds don't change Fonteva.** If the brother is confirmed on your roster, he stays confirmed. And if your chapter has confirmed its roster this year, **Kappa Loop will keep showing him as paid through Fonteva** until he's removed from your roster in Fonteva.
+* **Chapter and province refunds don't change Fonteva.** If the brother is confirmed on your roster, he stays confirmed. And if your chapter has confirmed its roster this year, **Kappa Loop will keep showing him as paid through Fonteva** until he's dropped from your roster in Fonteva.
 * **Grand Chapter refunds** (done by IHQ) record the refund in Fonteva, but **they don't change his good standing.** Whether a refunded brother keeps his standing is IHQ's decision.
 * If you refund a payment before Kappa Loop has updated Fonteva, his checkmark is never turned on.
 
@@ -381,13 +399,13 @@ Your chapter probably hasn't confirmed its roster since October 1. Confirm in Fo
 Either he isn't In Good Standing nationally yet, and the checkmark turns on once he is, or it's been less than an hour. If he's In Good Standing and it's been a day, [contact support](https://kappaloop.com/support).
 
 **I confirmed a brother by mistake and now he can't pay.**
-Remove him from your roster in Fonteva. Once it syncs, about an hour, his Pay Dues screen will ask for chapter dues again.
+Drop him in Fonteva, then confirm your roster again with the brothers who have paid. Once it syncs, about an hour, his Pay Dues screen will ask for chapter dues again.
 
 **A brother paid IHQ by eCheck, but Kappa Loop still asks him for Grand Chapter dues.**
 Kappa Loop can't see an eCheck until it clears in Fonteva, which can take several days. Ask him to wait for it to clear rather than paying again.
 
 **I refunded a brother, but he still shows as paid.**
-He's still confirmed on your Fonteva roster. Remove him from your roster if he's no longer financial.
+He's still confirmed on your Fonteva roster. Drop him and confirm your roster again if he's no longer financial.
 
 **A brother paid two chapters. Which one is his?**
 His **primary** chapter in Fonteva is his home chapter, and it's the only one Fonteva shows checkmarks for. The other chapter is an associate chapter: it gets his money and shows him as paid in Kappa Loop, and Fonteva records him as an affiliate.

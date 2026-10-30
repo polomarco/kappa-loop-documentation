@@ -7,11 +7,11 @@ This page explains what happens behind the **Pay Dues** button. It covers how Ka
 {% hint style="info" %}
 **The short version**
 
-1. **Grand Chapter, province and chapter dues are three separate payments to three separate treasuries.** Paying one never pays another.
+1. **Grand Chapter, province and chapter dues are three separate payments to three separate exchequers.** Paying one never pays another.
 2. **Good standing with Grand Chapter comes first.** Fonteva only shows a brother as chapter- or province-financial once he's In Good Standing nationally.
 3. **Confirming your roster in Fonteva tells Kappa Loop who has paid your chapter.** Only confirm brothers who really have paid, and confirm again whenever your roster changes.
 4. **Mark paid records a payment in Kappa Loop only.** It doesn't move money and it doesn't change Fonteva.
-5. **A refund returns only your own treasury's share,** and it doesn't change a brother's standing in Fonteva.
+5. **A refund returns only your own exchequer's share,** and it doesn't change a brother's standing in Fonteva.
 6. **Province dues your chapter collects are owed to your province.** Export the list, send the money, mark it submitted, and your province confirms receipt.
 {% endhint %}
 
@@ -255,8 +255,8 @@ If you marked the wrong brother or the wrong amount, open the payment and **undo
 Refunds are only for payments made **in Kappa Loop**. For how to issue one, see [Issuing a refund](officer-setup.md#issuing-a-refund).
 
 * **You refund only your own tier's share.** A chapter refund returns your chapter's line, including any province dues collected with it. Grand Chapter dues from the same checkout aren't touched.
-* **The money comes out of your treasury's Stripe account.** If you've already withdrawn it to your bank, your Stripe balance can go negative. It's covered by your next dues payments.
-* **The brother also gets back his share of the service fee.** Your treasury doesn't pay that part.
+* **The money comes out of your exchequer's Stripe account.** If you've already withdrawn it to your bank, your Stripe balance can go negative. It's covered by your next dues payments.
+* **The brother also gets back his share of the service fee.** Your exchequer doesn't pay that part.
 * **Refunds can't be undone,** and they're the full tier share. There are no partial refunds.
 * **A recorded payment (Mark paid) can't be refunded,** because no money moved through Kappa Loop. Undo it instead.
 

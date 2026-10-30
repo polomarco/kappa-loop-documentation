@@ -33,19 +33,19 @@ Every brother can owe dues at three levels. Each one is a separate organization 
 
 ## The dues year
 
-* The fraternal year runs **October 1 to September 30.** FY 2026–27 started on **October 1, 2026**.
+* The fraternal year runs **October 1 to September 30.**
 * Brothers can pay **next year's** dues starting **August 1**.
 * Dues are always for one year. A payment for last year never counts for this year.
 
 ### What changes in Fonteva at the year change
 
-IHQ's Office of the Grand Keeper of Records publishes these dates. For FY 2026–27, they're from its advisory of September 30, 2026.
+These dates come from IHQ's Office of the Grand Keeper of Records, which sends an advisory before each year change. If an advisory gives different dates, follow the advisory.
 
 | Date | What happens in Fonteva | What it means in Kappa Loop |
 |---|---|---|
 | **October 1, 4:00 AM ET** | Every brother whose dues expired September 30 becomes **Not In Good Standing**. There's no grace period. The confirmed-member count on your chapter page drops, because it counts only brothers In Good Standing. | Brothers who haven't renewed with Grand Chapter show **Unfinancial** for chapter dues, even if they're still confirmed on your roster. |
 | **November 1** | Brothers unfinancial for **more than two years** are moved off your chapter to the Grand Chapter Not In Good Standing account. | Within about an hour, they drop off your **Dues → Members** list. If one later pays your chapter's dues in Kappa Loop, he's put back on your roster in Fonteva. |
-| **January 1, 2027** | Chapter officer roles are removed from any officer still **Not In Good Standing**. Officers have through **December 31, 2026** to pay. | An officer who loses his Fonteva role can no longer confirm your roster in Fonteva. His Kappa Loop **Payment Manager** or **Chapter Manager** role is **not** removed automatically. |
+| **January 1** | Chapter officer roles are removed from any officer still **Not In Good Standing**. Officers have through **December 31** to pay. | An officer who loses his Fonteva role can no longer confirm your roster in Fonteva. His Kappa Loop **Payment Manager** or **Chapter Manager** role is **not** removed automatically. |
 
 **What does not change on October 1:**
 
